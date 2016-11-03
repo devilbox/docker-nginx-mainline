@@ -81,7 +81,6 @@ $ docker run -i \
     -t cytopia/nginx-mainline
 ```
 
-
 **3. Fully functional LEMP stack**
 
 Same as above, but also add a MySQL docker and link it into Nginx.
