@@ -1,5 +1,7 @@
 # Nginx mainline Docker
 
+<small>**Latest build:** 2017-04-18</small>
+
 [![Build Status](https://travis-ci.org/cytopia/docker-nginx-mainline.svg?branch=master)](https://travis-ci.org/cytopia/docker-nginx-mainline) [![](https://images.microbadger.com/badges/version/cytopia/nginx-mainline.svg)](https://microbadger.com/images/cytopia/nginx-mainline "nginx-mainline") [![](https://images.microbadger.com/badges/image/cytopia/nginx-mainline.svg)](https://microbadger.com/images/cytopia/nginx-mainline "nginx-mainline") [![](https://images.microbadger.com/badges/license/cytopia/nginx-mainline.svg)](https://microbadger.com/images/cytopia/nginx-mainline "nginx-mainline")
 
 [![cytopia/nginx-mainline](http://dockeri.co/image/cytopia/nginx-mainline)](https://hub.docker.com/r/cytopia/nginx-mainline/)
@@ -142,3 +144,12 @@ It allows any of the following combinations:
 * MySQL 5.5, MySQL 5.6, MySQL 5.7, MariaDB 5 and MariaDB 10
 * Apache 2.2, Apache 2.4, Nginx stable and Nginx mainline
 * And more to come...
+
+## Version
+
+```
+nginx version: nginx/1.11.13
+built by gcc 4.8.5 20150623 (Red Hat 4.8.5-11) (GCC)
+built with OpenSSL 1.0.1e-fips 11 Feb 2013
+TLS SNI support enabled
+```
