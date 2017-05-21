@@ -1,6 +1,6 @@
 # Nginx mainline Docker
 
-<small>**Latest build:** 2017-05-16</small>
+<small>**Latest build:** 2017-05-21</small>
 
 [![Build Status](https://travis-ci.org/cytopia/docker-nginx-mainline.svg?branch=master)](https://travis-ci.org/cytopia/docker-nginx-mainline) [![](https://images.microbadger.com/badges/version/cytopia/nginx-mainline.svg)](https://microbadger.com/images/cytopia/nginx-mainline "nginx-mainline") [![](https://images.microbadger.com/badges/image/cytopia/nginx-mainline.svg)](https://microbadger.com/images/cytopia/nginx-mainline "nginx-mainline") [![](https://images.microbadger.com/badges/license/cytopia/nginx-mainline.svg)](https://microbadger.com/images/cytopia/nginx-mainline "nginx-mainline")
 
