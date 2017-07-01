@@ -13,7 +13,7 @@ LABEL \
 	image="nginx-mainline" \
 	vendor="cytopia" \
 	license="MIT" \
-	build-date="2017-06-07"
+	build-date="2017-06-30"
 
 
 # Copy scripts
