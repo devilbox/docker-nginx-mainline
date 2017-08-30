@@ -1,6 +1,6 @@
 # Nginx mainline Docker
 
-<small>**Latest build:** 2017-06-30</small>
+<small>**Latest build:** 2017-08-30</small>
 
 [![Build Status](https://travis-ci.org/cytopia/docker-nginx-mainline.svg?branch=master)](https://travis-ci.org/cytopia/docker-nginx-mainline) [![](https://images.microbadger.com/badges/version/cytopia/nginx-mainline.svg)](https://microbadger.com/images/cytopia/nginx-mainline "nginx-mainline") [![](https://images.microbadger.com/badges/image/cytopia/nginx-mainline.svg)](https://microbadger.com/images/cytopia/nginx-mainline "nginx-mainline") [![](https://images.microbadger.com/badges/license/cytopia/nginx-mainline.svg)](https://microbadger.com/images/cytopia/nginx-mainline "nginx-mainline")
 
@@ -135,7 +135,7 @@ It allows any of the following combinations:
 ## Version
 
 ```
-nginx version: nginx/1.13.2
+nginx version: nginx/1.13.4
 built by gcc 4.8.5 20150623 (Red Hat 4.8.5-11) (GCC)
 built with OpenSSL 1.0.1e-fips 11 Feb 2013
 TLS SNI support enabled
