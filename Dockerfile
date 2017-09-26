@@ -53,11 +53,12 @@ RUN set -x \
 
 # Add custom config directive to httpd server
 RUN set -x \
-	&& sed -i'' 's|^\s*include.*conf\.d/.*|include /etc/nginx/conf.d/*.conf;\n include /etc/nginx/custom.d/*.conf;\n|g' /etc/nginx/nginx.conf
+	&& sed -i'' 's|^\s*include.*conf\.d/.*|    include /etc/nginx-mainline.d/*.conf;\n    include /etc/nginx/conf.d/*.conf;\n    include /etc/nginx/custom.d/*.conf;\n|g' /etc/nginx/nginx.conf
 
 # create directories
 RUN set -x \
 	&& rm -rf /etc/nginx/conf.d/* \
+	&& mkdir -p /etc/nginx-mainline.d \
 	&& mkdir -p /etc/nginx/custom.d \
 	&& mkdir -p /shared/httpd \
 	&& chmod 0775 /shared/httpd \
