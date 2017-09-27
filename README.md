@@ -18,7 +18,7 @@ Find me on **[Docker Hub](https://hub.docker.com/r/cytopia/nginx-mainline)**:
 
 [![cytopia/nginx-mainline](http://dockeri.co/image/cytopia/nginx-mainline)](https://hub.docker.com/r/cytopia/nginx-mainline/)
 
-<small>**Latest build:** 2017-09-26</small>
+<small>**Latest build:** 2017-09-27</small>
 
 ----
 
