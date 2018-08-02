@@ -1,6 +1,11 @@
 FROM nginx:mainline
 MAINTAINER "cytopia" <cytopia@everythingcli.org>
 
+LABEL \
+	name="cytopia's nginx mainline image" \
+	image="devilbox/nginx-mainline" \
+	vendor="devilbox" \
+	license="MIT"
 
 ###
 ### Build arguments
