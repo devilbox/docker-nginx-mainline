@@ -254,8 +254,9 @@ It allows any of the following combinations:
 * Apache 2.2, Apache 2.4, Nginx stable and Nginx mainline
 * And more to come...
 
+
 ## Version
 
 ```
-nginx version: nginx/1.15.7
+nginx version: nginx/1.15.8
 ```
