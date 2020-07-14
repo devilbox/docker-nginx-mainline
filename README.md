@@ -267,5 +267,5 @@ It allows any of the following combinations:
 ## Version
 
 ```
-nginx version: nginx/1.17.6
+nginx version: nginx/1.19.1
 ```
