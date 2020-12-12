@@ -1,6 +1,9 @@
 # Nginx mainline Docker image
 
-[![Build Status](https://travis-ci.org/devilbox/docker-nginx-mainline.svg?branch=master)](https://travis-ci.org/devilbox/docker-nginx-mainline)
+[![lint](https://github.com/devilbox/docker-nginx-mainline/workflows/lint/badge.svg)](https://github.com/devilbox/docker-nginx-mainline/actions?query=workflow%3Alint)
+[![build](https://github.com/devilbox/docker-nginx-mainline/workflows/build/badge.svg)](https://github.com/devilbox/docker-nginx-mainline/actions?query=workflow%3Abuild)
+[![nightly](https://github.com/devilbox/docker-nginx-mainline/workflows/nightly/badge.svg)](https://github.com/devilbox/docker-nginx-mainline/actions?query=workflow%3Anightly)
+
 [![release](https://img.shields.io/github/release/devilbox/docker-nginx-mainline.svg)](https://github.com/devilbox/docker-nginx-mainline/releases)
 [![Join the chat at https://gitter.im/devilbox/Lobby](https://badges.gitter.im/devilbox/Lobby.svg)](https://gitter.im/devilbox/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Github](https://img.shields.io/badge/github-docker--nginx--mainline-red.svg)](https://github.com/devilbox/docker-nginx-mainline)
@@ -267,5 +270,5 @@ It allows any of the following combinations:
 ## Version
 
 ```
-nginx version: nginx/1.19.1
+nginx version: nginx/1.19.5
 ```
